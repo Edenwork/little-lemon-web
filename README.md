@@ -1,2 +1,7 @@
-# little-lemon-web
-use React.js
+# Holly
+
+
+# Getting Started
+
+- Run `npm install`
+- Run `npm run dev`
