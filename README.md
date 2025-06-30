@@ -1,4 +1,4 @@
-# Holly
+little-lemon-web
 
 
 # Getting Started
